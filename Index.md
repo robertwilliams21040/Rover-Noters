@@ -9,9 +9,9 @@ This is the documentation for my Progress on the open source mars rover. The lin
 
 - [To Do List](ToDo.md)(Start Here)
 - [Journals](Journals.md)
-- [Electrical](#heading)
-- [Mechanical](#heading-1)
-- [Software](#heading-2)
+- [Electrical](Electrical/Index.md)
+- [Mechanical](Mechanical/Index.md)
+- [Software](Software/Index.md)
  
 ### Additional References
 

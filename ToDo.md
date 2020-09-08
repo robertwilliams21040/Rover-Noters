@@ -5,6 +5,9 @@
 - [ ] Gather the Parts needed to complete the Electrical section [Electical parts list](Electrical/Electical%20Parts%20list.csv)
 - [ ] Gather the Parts needed to comlete the Mechanical Section
 - [ ] Download the Rover software
-- [ ] Practice sodering for PCB board
+- [ ] Practice skills needed for Electrical Assembly
+  - [ ] Practice sodering for PCB board
+  - [ ] Learn about electrica Debugging
+  - [ ] Learn about wiring 
 - [x] Order PCB board
 - [ ] Create index for the different sections
