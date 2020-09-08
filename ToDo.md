@@ -10,4 +10,4 @@
   - [ ] Learn about electrica Debugging
   - [ ] Learn about wiring 
 - [x] Order PCB board
-- [ ] Create index for the different sections
+- [x] Create index for the different sections(9/8/2020)
