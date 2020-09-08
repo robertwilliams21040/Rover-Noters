@@ -1,4 +1,4 @@
-## Open Source Mars Rover Project
+# Open Source Mars Rover Project
 
 ***
 
