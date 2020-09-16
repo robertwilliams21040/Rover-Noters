@@ -19,4 +19,6 @@ Forum for asking questions about the rover or clacification about the project: [
   
 Amazon list of useful tools : [Amazon Tools list](http://a.co/gnoN2LW)
 
+Good guide on beggining soldering tips : [How To Solder: A Beginner’s Guide](https://www.makerspaces.com/how-to-solder/)
+
 

@@ -5,10 +5,10 @@ White Wire 30AWG,X3,1528-1737-ND,Digikey,https://www.digikey.com/products/en?key
 Blue Wire 30AWG,X4,1528-1734-ND,Digikey,https://www.digikey.com/products/en?keywords=1528-1734-ND,1,,,,Electrical Build,
 Yellow Wire 30AWG,X5,1528-1735-ND,Digikey,https://www.digikey.com/products/en?keywords=1528-1735-ND,1,,,,Electrical Build,
 Green Wire 30AWG,X6,1528-1736-ND,Digikey,https://www.digikey.com/products/en?keywords=1528-1736-ND,1,,,,Electrical Build,
-Control Board,E1,,JLCPCB,https://jlcpcb.com/,1,1,$11.80,$11.80,"Body, PCB Assembly",Ordered
-Arduino Shield,E2,,JLCPCB,https://jlcpcb.com/,1,1,$2.00,$2.00,"Head Assembly, PCB Assembly","Ordered "
-Term block 6p side entry,E3,ED2744-ND,Digikey,https://www.digikey.com/product-detail/en/OSTTE060104/ED2744-ND/2351820/?itemSeq=281160152,12,15,$.83,$12.50,PCB Assembly,"Ordered "
-"Term block 6P top entry ",E4,ED2627-ND,Digikey,https://www.digikey.com/product-detail/en/OSTTF060161/ED2627-ND/614576/?itemSeq=281160153,7,10,$1.25,$12.55,PCB Assembly,"Ordered "
+Control Board,E1,,JLCPCB,https://jlcpcb.com/,1,1,$11.80,$11.80,"Body, PCB Assembly",Acquired
+Arduino Shield,E2,,JLCPCB,https://jlcpcb.com/,1,1,$2.00,$2.00,"Head Assembly, PCB Assembly",Acquired
+Term block 6p side entry,E3,ED2744-ND,Digikey,https://www.digikey.com/product-detail/en/OSTTE060104/ED2744-ND/2351820/?itemSeq=281160152,12,15,$.83,$12.50,PCB Assembly,Acquired
+"Term block 6P top entry ",E4,ED2627-ND,Digikey,https://www.digikey.com/product-detail/en/OSTTF060161/ED2627-ND/614576/?itemSeq=281160153,7,10,$1.25,$12.55,PCB Assembly,Acquired
 Connector Header socket 20P 2x10,E5,S6106-ND,Digikey,https://www.digikey.com/product-detail/en/PPPC102LFBN-RC/S6106-ND/807245/?itemSeq=281160175,6,,,,PCB Assembly,
 Connector Header socket 5P 5x1,E6,S7038-ND,Digikey,https://www.digikey.com/product-detail/en/PPPC051LFBN-RC/S7038-ND/810177/?itemSeq=281160150,8,,,,PCB Assembly,
 Resistors 4.7K 1/4 Watt,E7,CF14JT4K70CT-ND,Digikey,https://www.digikey.com/products/en?keywords=CF14JT4K70CT-ND,10,,,,PCB Assembly,

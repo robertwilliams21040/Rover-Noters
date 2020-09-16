@@ -11,3 +11,9 @@ Looked around the documentation and tried myself with the way this is all going 
 
 Technially entered on 9/10/2020 (gotta get better about that ). Had a few busy days of work and home life so I pushed the Journal entry back abit. Created the Index for each section and updated the repository. Need to clean my room and look for that sodering practice kit that I know I still have only alittle progress but some progress is better then no progress.
 
+***
+### Entry #3 9/16/2020
+
+Ordered the soldering iron, pratice kits, and desoldering wick. Gonna be a while before I make any more significant progress on the project. Part because I need to learn how to solder, and part because I just dropped like $900 on car repairs. Oh well, thems the BREAKS (inside joke lol).
+
+
