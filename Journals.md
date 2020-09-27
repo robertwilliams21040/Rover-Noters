@@ -21,10 +21,7 @@ Ordered the soldering iron, pratice kits, and desoldering wick. Gonna be a while
 
 Finished the "Hue" soldering kit. Definiently some take-aways from this practice. First and formost is that un-leaded solder is much harder to work with. Had to take my new soldering iron to over 800+ degrees F to get the melting effect that I was looking for. As long as I am living at home, I will have to keep with it though. Mihael touches my stuff to much for me to consider leaded. Also, it does not take much to make a connection. Applying to much will quickly make excess. Apply solder from the front, not the side, and tinning the soldering iron before applying is important for the heat transfer. All and all, successful large step forward.
 
-<img src="/Media/Pictures/20200927_114027.jpg" alt="Solder Practice" width="200"/>
-<img src="/Media/Pictures/20200927_114029.jpg" alt="Solder Practice" width="200"/>
-<img src="/Media/Pictures/20200927_114955.jpg" alt="Solder Practice" width="200"/>
-<img src="/Media/Pictures/20200927_123703.jpg" alt="Solder Practice" width="200"/>
+<img src="/Media/Pictures/20200927_114027.jpg" alt="Solder Practice" width="200"/><img src="/Media/Pictures/20200927_114029.jpg" alt="Solder Practice" width="200"/><img src="/Media/Pictures/20200927_114955.jpg" alt="Solder Practice" width="200"/><img src="/Media/Pictures/20200927_123703.jpg" alt="Solder Practice" width="200"/>
 
 
 
